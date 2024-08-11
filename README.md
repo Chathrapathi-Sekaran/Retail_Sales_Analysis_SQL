@@ -193,5 +193,9 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
+ABOUT ME:
+
+**LINKEDIN PROFILE**: www.linkedin.com/in/chathrapathi-s-59aaa4173
+**EMAIL**: chathrapathisekaran@gmail.com
 
 Thank you. I hope this SQL code helps you.
