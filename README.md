@@ -195,7 +195,8 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ABOUT ME:
 
-**LINKEDIN PROFILE**: www.linkedin.com/in/chathrapathi-s-59aaa4173
-**EMAIL**: chathrapathisekaran@gmail.com
+- **LINKEDIN PROFILE**: (www.linkedin.com/in/chathrapathi-s-59aaa4173)
+
+- **EMAIL**: (chathrapathisekaran@gmail.com)
 
 Thank you. I hope this SQL code helps you.
